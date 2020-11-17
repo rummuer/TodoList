@@ -10,6 +10,7 @@ Meta Mask
 </ul>
 <H2> Execution commands </H2>
 <ul>
+npm install	
 Run Ganache
 Truffle compile
 Truffel migrate
