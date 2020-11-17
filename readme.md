@@ -1,20 +1,20 @@
-This is a todolist respositry tutorial from <a href=https://www.youtube.com/watch?v=rzvk2kdjr2I&t=870s>Dapp University</a>
+This is a todolist respositry tutorial from <a href="https://www.youtube.com/watch?v=rzvk2kdjr2I&t=870s">Dapp University</a>
 
 <H2>Prerequisites</H2>
 <ul>
-Node
-NPM
-Truffle
-Ganache
-Meta Mask
+<li>Node</li>
+<li>NPM</li>
+<li>Truffle</li>
+<li>Ganache</li>
+<li>Meta Mask</li>
 </ul>
 <H2> Execution commands </H2>
 <ul>
-npm install	
-Run Ganache
-Truffle compile
-Truffel migrate
-npm run dev
-Connect metamask in browser
+<li>npm install</li>
+<li>Run Ganache</li>
+<li>Truffle compile</li>
+<li>Truffel migrate</li>
+<li>npm run dev</li>
+<li>Connect metamask in browser</li>
 </ul>
 
