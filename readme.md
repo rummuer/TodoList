@@ -10,11 +10,11 @@ This is a todolist respositry tutorial from <a href="https://www.youtube.com/wat
 </ul>
 <H2> Execution commands </H2>
 <ul>
-<li>npm install</li>
+<li>$npm install</li>
 <li>Run Ganache</li>
-<li>Truffle compile</li>
-<li>Truffel migrate</li>
-<li>npm run dev</li>
+<li>$truffle compile</li>
+<li>$truffle migrate</li>
+<li>$npm run dev</li>
 <li>Connect metamask in browser</li>
 </ul>
 
